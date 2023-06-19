@@ -1,12 +1,15 @@
 ---
 layout: page
+title: An R coding and data-hassling community in USyd's School of Life and Environmental Sciences
 ---
 
-## Welcome!
+### Welcome!
 
 We are...
 
-## Schedule (2023 - S2)
+### Join us
+
+### Schedule (2023 - S2)
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme
