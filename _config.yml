@@ -2,10 +2,10 @@
 name: SOLES codeRs
 
 # Name of the author
-author: Amit Merchant
+author: Thomas White
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: An R coding and data-hassling community in USyd's School of Life and Environmental Sciences
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -17,7 +17,7 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: thomas.white026@gmail.com
+  email: thomas.white@sydney.edu.au
   facebook:
   flickr:
   github: solescoders
