@@ -33,6 +33,7 @@ permalink: /people/
         <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
             </div>
+            
             <div align="center"><strong><a href="https://tomwhite.io">Dr. Thomas (Tom) White</a></strong></div>
             <div align="center">Senior Lecturer & DECRA fellow</div>
             <div align="center">| site | email | github |</div>
