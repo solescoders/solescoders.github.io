@@ -33,7 +33,8 @@ permalink: /people/
         <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
             </div>
-            <div>Foo</div>
+            <div><strong><a href="https://tomwhite.io">Dr. Thomas (Tom) White</a></strong></div>
+            <div>| site | email | github |</div>
       </td>
          <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
