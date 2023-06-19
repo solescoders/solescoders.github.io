@@ -33,13 +33,16 @@ permalink: /people/
     <tr> 
         <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
-      </div>
-      <td align="center">
+            </div>
+      </td>
+         <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
-      </div>
-      <td align="center">
+            </div>
+        </td>
+         <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
-      </div>
+            </div>
+         </td>
     </tr>
 
 </table>
