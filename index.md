@@ -3,9 +3,7 @@ layout: page
 title: An R coding and data-hassling community in USyd's School of Life and Environmental Sciences
 ---
 
-<img src="{{ site.baseurl }}/assets/compsci.png" title="compsci" style="float:centre;">
-
-![](){{ site.baseurl }}/assets/tom_profile.jpg
+<img src="{{ site.baseurl }}/assets/compsci.png" title="compsci" style="float:centre;" width="500" height="600">
 
 ### Welcome!
 
