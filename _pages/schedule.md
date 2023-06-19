@@ -3,8 +3,8 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-
-We catch up for ca. **one hour** each week during semester, at **location TBC**. We alternate between **drop-ins/hackathons**, which are opportunities to BYO data and code to work on, and ask the brains-trust for a hand on sticky problems. And **workshops**, in which we learn something new or dust and polish existing knowledge & skills. All sessions are very informal, and as much as anything are an opportunity to touch base, enjoy a snack, and hear more about all the cool science and teaching which takes place in the school.
+<img src="{{ site.baseurl }}/assets/hex.png" title="hex" style="float:right;" width="150" height="150">
+We catch up for ~**one hour** each week during semester, at **location TBC**. We alternate between **drop-ins/hackathons**, which are opportunities to BYO data and code to work on, and ask the brains-trust for a hand on sticky problems. And **workshops**, in which we learn something new or polish existing knowledge & skills. All sessions are very informal, and as much as anything are an opportunity to touch base, enjoy a snack, and hear more about all the cool science and teaching which takes place in the school.
 
 ### 2023: Semester 2
 
