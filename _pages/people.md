@@ -36,7 +36,7 @@ permalink: /people/
             
             <div align="center"><strong><a href="https://tomwhite.io">Dr. Thomas (Tom) White</a></strong></div>
             <div align="center">Senior Lecturer & DECRA fellow</div>
-            <div align="center">| site | email | github |</div>
+            <div align="center">| <a href="https://tomwhite.io">site</a> | <a href="mailto:thomas.white@sydney.edu.au">email</a> | <a href="https://github.com/thomased">github</a> |</div>
       </td>
          <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
