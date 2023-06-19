@@ -25,12 +25,6 @@ permalink: /people/
     margin-right:0.0em;
 }
 
-table, tr, td, th{
-padding: 10px;
-margin: auto;
-border: none;
-}
-
 </style>
 
 <body>
@@ -39,8 +33,8 @@ border: none;
     <tr> 
         <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
-            <p class="biotext">Sound</p>
             </div>
+            <div class="biotext">Foo</div>
 
       </td>
          <td align="center">
