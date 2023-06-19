@@ -1,13 +1,11 @@
 ---
 layout: page
-title: An R coding and data-hassling community in USyd's School of Life and Environmental Sciences
+title: Welcome!
 ---
 
+SOLES codeRs are a community of 'R' users, coders, and makers (or aspiring to be, anyway), based in the [School of Life and Environmental Sciences](https://www.sydney.edu.au/science/schools/school-of-life-and-environmental-sciences.html), at USyd. Run by staff and students, we enjoy catching up to share knowledge and learn new skills around R and data-wrangling/analysis more broadly, in a safe and friendly environment. 
+
 <img src="{{ site.baseurl }}/assets/compsci.png" title="compsci" style="float:centre;" width="300" height="300">
-
-### Welcome!
-
-SOLES codeRs are a community of 'R' users, coders, and makers (or aspiring to be, anyway). Run by staff and students, we enjoy catching up to share knowledge and learn new skills around R and data-wrangling/analysis more broadly, in a safe and friendly environment. 
 
 ### Join us
 
