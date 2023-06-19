@@ -25,6 +25,12 @@ permalink: /people/
     margin-right:0.0em;
 }
 
+table, tr, td, th{
+padding: 10px;
+margin: auto;
+border: none;
+}
+
 </style>
 
 <body>
