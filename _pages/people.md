@@ -29,12 +29,10 @@ permalink: /people/
 
 <body>
 <table width="100%" align="center">
-
     <tr> 
         <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
             </div>
-            <div>Foo</div>
       </td>
          <td align="center">
             <div class="photo"><img src="{{ site.baseurl }}/assets/tom_profile.jpg" alt="Thomas White" title="Thomas White">
