@@ -8,6 +8,8 @@ We catch up for ~**one hour** each week during semester, at **location TBC**. We
 
 ### 2023: Semester 2
 
+<center> 
+
 | Date | Topic | Resources |
 |------|-------| ------- |
 | 03/08 | Tidy projects, data, and code | Link |
@@ -22,3 +24,5 @@ We catch up for ~**one hour** each week during semester, at **location TBC**. We
 | 12/10 | Drop-in/hackathon |  |
 | 19/10 | Meta-analysis 2: models & analyses | Link | 
 | 26/10 | Drop-in/hackathon |  |
+
+</center> 
