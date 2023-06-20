@@ -41,7 +41,7 @@ img {
         <td align="center">
           <figure class="item">
             <img src="{{ site.baseurl }}/assets/qmark.png"/>
-            <figcaption class="caption">You? Get in touch!</figcaption>
+            <figcaption class="caption"><strong>You? Get in touch!</strong></figcaption>
           </figure>
         </td>
     </tr>
