@@ -31,7 +31,7 @@ table {
 </style>
 
 <body>
-<table width="100%" align="center">
+<table width="100%" align="center" border: 0;>
     <tr> 
         <td align="center">
           <figure class="item">

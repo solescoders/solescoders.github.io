@@ -11,9 +11,9 @@ We catch up for ~**one hour** each week during semester, at **location TBC**. We
 | Date | Topic | Resources |
 |------|-------| ------- |
 | 03/08 | Tidy projects, data, and code | Link |
-| 10/08 | Drop-in/hackathon |  |
+| 10/08 | Drop-in/hackathon (+AI chat) |  |
 | 17/08 | Version control with Git & GitHub | Link |
-| 24/08 | Drop-in/hackathon |  |
+| 24/08 | Drop-in/hackathon (+3D printing|  |
 | 31/08 | Intro to data-vis with ‘ggplot2’ | Link | 
 | 07/09 | Drop-in/hackathon |  |
 | 14/09 | Build-your-own website via GitHub | Link |
