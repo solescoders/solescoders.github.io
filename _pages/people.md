@@ -55,7 +55,7 @@ img {
       </td>
         <td align="center">
           <figure class="item">
-          <img src=""{{ site.baseurl }}/assets/tom_profile.jpg""/>
+          <img src="{{ site.baseurl }}/assets/tom_profile.jpg"/>
           <figcaption class="caption"><a href="https://tomwhite.io">Dr. Thomas (Tom) White</a></figcaption>
         </td>
          <td align="center">
