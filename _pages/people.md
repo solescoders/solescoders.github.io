@@ -8,15 +8,15 @@ permalink: /people/
 
 div.item {
     vertical-align: top;
-    margin: auto;
-    float:centre;
     display: inline-block;
     text-align: center;
 }
 img {
     width: 185;
     height: 185px;
-    background-color: grey;
+    background-color: white;
+    margin: auto;
+    float:centre;
 }
 .caption {
     display: block;
