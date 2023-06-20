@@ -20,7 +20,7 @@ img {
     margin-right: auto;
     text-align: center;
 }
-table, th, td {
+table, th, td, tr {
     border: 0;
 }
 .caption {
