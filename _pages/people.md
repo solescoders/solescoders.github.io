@@ -8,6 +8,8 @@ permalink: /people/
 
 div.item {
     vertical-align: top;
+    margin: auto;
+    float:centre;
     display: inline-block;
     text-align: center;
 }
