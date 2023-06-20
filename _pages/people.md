@@ -25,11 +25,15 @@ permalink: /people/
     margin-right:0.0em;
 }
 
+
 div.item {
     vertical-align: top;
     display: inline-block;
     text-align: center;
-    width: 120px;
+    max-width: 200px;
+    min-width: 170px;
+    max-height: 210px;
+     min-height: 170;
 }
 img {
     width: 100px;
