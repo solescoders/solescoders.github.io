@@ -17,9 +17,9 @@ SOLES codeRs are a community of [R](https://www.r-project.org) users, coders, an
 
 **How do we stay in touch?** Join us on Slack, [via this invitation link](https://join.slack.com/t/solescoders/signup) (for all @sydney email addresses, otherwise just [email Tom](mailto:thomas.white@sydney.edu.au) for a link). [Slack](https://slack.com/intl/en-au/) is basically a chatroom, where we can easily keep in touch and share things, without the hassle of more email. All announcements and general chit-chat will be via the solescodeRs slack workspace, but you can always set up email alerts for messages in there if you prefer.
 
-**Want to contribute? Got suggestions?** If you have some experience with R or related areas and would like to be involved (e.g. by lending an ear/eye at the in-person sessions), we'd be very glad to have you! Just [get in touch]({{ site.baseurl }}/people) for a chat anytime. Note that advanced skills and deep experience aren't required at all (we're not experts!) just some decent working knowledge and a willingness to lend your brain to new problems.
+**Want to contribute? Got suggestions?** If you have some experience with R or related areas and would like to be involved (e.g. by lending an ear/eye at the in-person sessions), we'd be very glad to have you! [Get in touch]({{ site.baseurl }}/people) anytime. Note that advanced skills and deep experience aren't required at all (we're not experts) just some decent working knowledge and a willingness to lend your brain to new problems.
 
-Also if you have suggestions for skills you'd like to develop, or people you'd like to hear from, we'd be similarly glad to hear it. This is a new endeavour so feedback, thoughts, and suggestions are most welcome as we continue to find out way. 
+Also if you have suggestions for topics you'd like to learn more about, or people you'd like to hear from, we'd be similarly glad to hear it. This is a new endeavour so feedback, thoughts, and suggestions are most welcome as we continue to find out way. 
 
 
 
