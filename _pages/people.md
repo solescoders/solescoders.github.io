@@ -40,14 +40,8 @@ img {
         </td>
         <td align="center">
           <figure class="item">
-            <img src="{{ site.baseurl }}/assets/tom_profile.jpg"/>
-            <figcaption class="caption">Dr. Thomas (Tom) White</figcaption>
-          </figure>
-        </td>
-         <td align="center">
-          <figure class="item">
-            <img src="{{ site.baseurl }}/assets/tom_profile.jpg"/>
-            <figcaption class="caption">Dr. Thomas (Tom) White</figcaption>
+            <img src="{{ site.baseurl }}/assets/qmark.png"/>
+            <figcaption class="caption">You? Get in touch!</figcaption>
           </figure>
         </td>
     </tr>
