@@ -18,7 +18,7 @@ We catch up for ~**one hour** each week during semester, at **location TBC**. We
 | 07/09 | Drop-in/hackathon |  |
 | 14/09 | Version control with Git and GitHub | Link |
 | 21/09 | Drop-in/hackathon |  |
-| 05/10 | Meta-analysis 1: searching & screening lit  | Link |
+| 05/10 | Meta-analysis 1: searching & screening literature  | Link |
 | 12/10 | Drop-in/hackathon |  |
 | 19/10 | Meta-analysis 2: models & analyses | Link | 
 | 26/10 | Drop-in/hackathon |  |
