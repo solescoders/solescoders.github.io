@@ -20,7 +20,7 @@ img {
     margin-right: auto;
     text-align: center;
 }
-table {
+table, th, td {
     border: 0;
 }
 .caption {
@@ -31,7 +31,7 @@ table {
 </style>
 
 <body>
-<table width="100%" align="center" border: 0;>
+<table width="100%" align="center">
     <tr> 
         <td align="center">
           <figure class="item">
