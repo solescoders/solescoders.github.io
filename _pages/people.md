@@ -18,6 +18,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 .caption {
     display: block;
