@@ -20,6 +20,9 @@ img {
     margin-right: auto;
     text-align: center;
 }
+table {
+    border: 0;
+}
 .caption {
     display: block;
     text-align: center;
