@@ -12,7 +12,7 @@ div.item {
     text-align: center;
 }
 img {
-    width: 185;
+    width: 185px;
     height: 185px;
     background-color: white;
     display: block;
