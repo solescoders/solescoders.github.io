@@ -12,12 +12,13 @@ div.item {
     text-align: center;
 }
 img {
-    width: 175;
-    height: 175px;
+    width: 185;
+    height: 185px;
     background-color: grey;
 }
 .caption {
     display: block;
+    text-align: center;
 }
 
 </style>
@@ -28,8 +29,8 @@ img {
         <td align="center">
           <figure class="item">
             <img src="{{ site.baseurl }}/assets/tom_profile.jpg"/>
-            <figcaption class="caption">Dr. Thomas (Tom) White</figcaption>
-            <figcaption class="caption">| site | email | github |</figcaption>
+            <figcaption class="caption"><strong>Dr. Thomas (Tom) White</strong></figcaption>
+            <figcaption class="caption">| <a href="https://tomwhite.io">site</a> | <a href="https://mailto:thomas.white@sydney.edu.au">email</a> | <a href="https://github.com/thomased">github</a> |</figcaption>
           </figure>
         </td>
         <td align="center">
