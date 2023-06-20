@@ -15,8 +15,9 @@ img {
     width: 185;
     height: 185px;
     background-color: white;
-    margin: auto;
-    float:centre;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .caption {
     display: block;
