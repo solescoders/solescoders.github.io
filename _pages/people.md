@@ -30,14 +30,10 @@ div.item {
     vertical-align: top;
     display: inline-block;
     text-align: center;
-    max-width: 200px;
-    min-width: 170px;
-    max-height: 210px;
-     min-height: 170;
 }
 img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: grey;
 }
 .caption {
