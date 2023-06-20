@@ -20,8 +20,8 @@ img {
     margin-right: auto;
     text-align: center;
 }
-table, th, td, tr {
-    border: 0;
+body table, body table th, body table td, body table tr {
+    border: none !important;
 }
 .caption {
     display: block;
