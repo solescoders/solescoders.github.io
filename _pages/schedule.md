@@ -13,7 +13,7 @@ We catch up for ~one hour each week during semester, at **time TBC** in **locati
 | 03/08 | Tidy projects, data, and code | Link |
 | 10/08 | Drop-in/hackathon (+AI chat) |  |
 | 17/08 | Intro data wrangling with the 'tidyverse' | Link |
-| 24/08 | Drop-in/hackathon (+3D printing|  |
+| 24/08 | Drop-in/hackathon (+3D printing fun)|  |
 | 31/08 | Intro data-vis with ‘ggplot2’ | Link | 
 | 07/09 | Drop-in/hackathon |  |
 | 14/09 | Version control with Git and GitHub | Link |
