@@ -15,6 +15,9 @@ img {
     width: 185;
     height: 185px;
     background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 .caption {
