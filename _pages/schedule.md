@@ -10,15 +10,9 @@ We catch up for ~one hour each week during semester, at **time TBC** in **locati
 
 | Date | Topic | Resources |
 |------|-------| ------- |
-| 03/08 | Tidy projects, data, and code | Link |
-| 10/08 | Drop-in/hackathon (+AI chat) |  |
-| 17/08 | Intro data wrangling with the 'tidyverse' | Link |
-| 24/08 | Drop-in/hackathon (+3D printing fun)|  |
-| 31/08 | Intro data-vis with ‘ggplot2’ | Link | 
-| 07/09 | Drop-in/hackathon |  |
-| 14/09 | Version control with Git and GitHub | Link |
-| 21/09 | Drop-in/hackathon |  |
-| 05/10 | Meta-analysis 1: searching & screening literature  | Link |
-| 12/10 | Drop-in/hackathon |  |
-| 19/10 | Meta-analysis 2: models & analyses | Link | 
-| 26/10 | Drop-in/hackathon |  |
+| 10/08 | Tidy projects, data, and code | Link |
+| 24/08 | Piping and data wrangling with the 'tidyverse' | Link |
+| 07/09 | Data-vis with ‘ggplot2’ | Link | 
+| 21/09 | Version control with Git and GitHub | Link |
+| 12/10 | Meta-analysis 1: searching & screening literature  | Link |
+| 26/10 | Meta-analysis 2: models & analyses | Link | 
