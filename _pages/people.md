@@ -38,7 +38,15 @@ body table, body table th, body table td, body table tr {
             <img src="{{ site.baseurl }}/assets/tom_profile.jpg"/>
             <figcaption class="caption"><strong>Dr. Thomas (Tom) White</strong></figcaption>
             <figcaption class="caption">Senior Lecturer & DECRA fellow</figcaption>
-            <figcaption class="caption">| <a href="https://tomwhite.io">site</a> | <a href="https://mailto:thomas.white@sydney.edu.au">email</a> | <a href="https://github.com/thomased">github</a> |</figcaption>
+            <figcaption class="caption">| <a href="https://tomwhite.io">site</a> | <a href="https://mailto:thomas.white@sydney.edu.au">email</a> | <a href="https://github.com/thomased">GitHub</a> |</figcaption>
+          </figure>
+        </td>
+        <td align="center">
+          <figure class="item">
+            <img src="{{ site.baseurl }}/assets/karina.jpg"/>
+            <figcaption class="caption"><strong>Dr. Karina Arias Calluari</strong></figcaption>
+            <figcaption class="caption">Postdoctoral Researcher</figcaption>
+            <figcaption class="caption">| <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/karina-ariascalluari.html">site</a> | <a href="https://mailto:karina.ariascalluari@sydney.edu.au">email</a> | <a href="https://github.com/Karina-AriasCalluari">GitHub</a> |</figcaption>
           </figure>
         </td>
         <td align="center">
