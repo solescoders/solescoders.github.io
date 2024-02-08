@@ -41,6 +41,14 @@ body table, body table th, body table td, body table tr {
             <figcaption class="caption">| <a href="https://tomwhite.io">site</a> | <a href="https://mailto:thomas.white@sydney.edu.au">email</a> | <a href="https://github.com/thomased">github</a> |</figcaption>
           </figure>
         </td>
+           <td align="center">
+          <figure class="item">
+            <img src="{{ site.baseurl }}/assets/qmark.png"/>
+            <figcaption class="caption"><strong>You?</strong></figcaption>
+            <figcaption class="caption">Get in touch!</figcaption>
+            </figcaption>
+          </figure>
+        </td>
     </tr>
 </table>
 </body>
