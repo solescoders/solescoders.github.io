@@ -41,20 +41,6 @@ body table, body table th, body table td, body table tr {
             <figcaption class="caption">| <a href="https://tomwhite.io">site</a> | <a href="https://mailto:thomas.white@sydney.edu.au">email</a> | <a href="https://github.com/thomased">github</a> |</figcaption>
           </figure>
         </td>
-        <td align="center">
-          <figure class="item">
-            <img src="{{ site.baseurl }}/assets/karina.jpg"/>
-            <figcaption class="caption"><strong>Dr. Karina Arias Calluari</strong></figcaption>
-            <figcaption class="caption">Postdoctoral Researcher</figcaption>
-            <figcaption class="caption">| <a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/karina-ariascalluari.html">site</a> | <a href="https://mailto:karina.ariascalluari@sydney.edu.au">email</a> | <a href="https://github.com/Karina-AriasCalluari">github</a> |</figcaption>
-          </figure>
-        </td>
-        <td align="center">
-          <figure class="item">
-            <img src="{{ site.baseurl }}/assets/qmark.png"/>
-            <figcaption class="caption"><strong>You? Get in touch!</strong></figcaption>
-          </figure>
-        </td>
     </tr>
 </table>
 </body>
