@@ -15,6 +15,8 @@ SOLES codeRs are a community of [R](https://www.r-project.org) users, coders, an
 
 **Is there food?** Yep! If nothing else, come for a chat & snacks!
 
+**Is there a remote option?** Yep! Join for the presentation via zoom shortly after the scheduled start time (to allow for snacking). The link will be available on Slack.
+
 **How do we stay in touch?** Join us on Slack, [via this invitation link](https://join.slack.com/t/solescoders/signup) (for all @sydney email addresses, otherwise just [email Tom](mailto:thomas.white@sydney.edu.au) for a link). [Slack](https://slack.com/intl/en-au/) is basically a chatroom, where we can easily keep in touch and share things, without the hassle of more email. All announcements and general chit-chat will be via the solescodeRs slack workspace, but you can always set up email alerts for messages in there if you prefer.
 
 **Want to contribute? Got suggestions?** If you have some experience with R or related areas and would like to be involved (e.g. by lending an ear/eye at the in-person sessions), we'd be very glad to have you! [Get in touch]({{ site.baseurl }}/people) anytime. Note that advanced skills and deep experience aren't required at all (we're not experts) just some decent working knowledge and a willingness to lend your brain to new problems.
