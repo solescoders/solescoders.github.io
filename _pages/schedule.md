@@ -12,7 +12,7 @@ We catch up for ~90 minutes each fortnight during semester, **every second Monda
 |------|-------| ------- |
 | 26/02 | Tidy projects, data, and code | [Link](https://github.com/solescoders/workshop_materials/tree/main/tidy_projects_data_code) |
 | 11/03 | Data-vis with ‘ggplot2’ | [Link](https://github.com/solescoders/workshop_materials/tree/main/ggplot2_intro) | 
-| 25/03 | Piping and data wrangling with the 'tidyverse' | [Link] |
+| 25/03 | Piping and data wrangling with the 'tidyverse' | Link |
 | 08/04 | Version control with Git and GitHub | Link |
 | 22/04 | Meta-analysis 1: searching & screening literature  | Link |
 | 06/05 | Meta-analysis 2: models & analyses | Link | 
